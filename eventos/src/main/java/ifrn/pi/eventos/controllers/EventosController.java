@@ -4,6 +4,8 @@ import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
 
+import ifrn.pi.eventos.models.Evento;
+
 @Controller
 public class EventosController {
 	
@@ -13,9 +15,9 @@ public class EventosController {
 	}
 	
 	@PostMapping("/eventos")
-	public String adicionar(String nome) {
+	public String adicionar(Evento evento) {
 		
-		System.out.println("O nome: " + nome);
+		System.out.println(evento);
 		
 		return "evento-adicionado";
 	}

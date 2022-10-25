@@ -1864,3 +1864,45 @@ org.eclipse.core.runtime.CoreException: Could not resolve artifact antlr:antlr:j
 2022-10-18 14:19:50,178 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
 2022-10-18 14:19:50,182 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
 2022-10-18 14:19:50,218 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2022-10-18 14:19:50,224 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-18 14:19:50,225 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-10-18 14:19:50,225 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\20191204010040\Documents\pi\eventos\src\test\resources
+2022-10-18 14:30:15,272 [Framework stop - Equinox Container: 1eaaf082-114e-4ec1-b8c6-611c27817277] INFO  org.eclipse.jetty.server.Server - Stopped Server@6820dd90{STOPPING}[10.0.6,sto=0]
+2022-10-18 14:30:15,376 [Framework stop - Equinox Container: 1eaaf082-114e-4ec1-b8c6-611c27817277] INFO  o.e.jetty.server.AbstractConnector - Stopped ServerConnector@56926ff1{HTTP/1.1, (http/1.1)}{0.0.0.0:0}
+2022-10-18 14:30:16,203 [Framework stop - Equinox Container: 1eaaf082-114e-4ec1-b8c6-611c27817277] INFO  o.e.j.server.handler.ContextHandler - Stopped o.e.j.s.ServletContextHandler@5db4e558{/wse,null,STOPPED}
+2022-10-25 13:18:21,295 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2022-10-25 13:47:04,400 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-25 13:47:04,400 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-10-25 13:47:04,405 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-10-25 13:47:04,469 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2022-10-25 13:47:04,519 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-25 13:47:04,519 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-10-25 13:47:04,519 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\20191204010040\Documents\pi\eventos\src\test\resources
+2022-10-25 13:47:16,954 [Worker-12: Launching EventosApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-25 13:47:16,955 [Worker-12: Launching EventosApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-10-25 13:47:16,962 [Worker-12: Launching EventosApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-10-25 13:47:16,981 [Worker-12: Launching EventosApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2022-10-25 13:47:16,994 [Worker-12: Launching EventosApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-25 13:47:16,994 [Worker-12: Launching EventosApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-10-25 13:47:16,995 [Worker-12: Launching EventosApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\20191204010040\Documents\pi\eventos\src\test\resources
+2022-10-25 13:50:01,442 [Worker-15: Launching EventosApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-25 13:50:01,443 [Worker-15: Launching EventosApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-10-25 13:50:01,447 [Worker-15: Launching EventosApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-10-25 13:50:01,461 [Worker-15: Launching EventosApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2022-10-25 13:50:01,467 [Worker-15: Launching EventosApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-25 13:50:01,467 [Worker-15: Launching EventosApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-10-25 13:50:01,468 [Worker-15: Launching EventosApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\20191204010040\Documents\pi\eventos\src\test\resources
+2022-10-25 13:52:28,693 [Worker-12: Launching EventosApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-25 13:52:28,694 [Worker-12: Launching EventosApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-10-25 13:52:28,696 [Worker-12: Launching EventosApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-10-25 13:52:28,709 [Worker-12: Launching EventosApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2022-10-25 13:52:28,715 [Worker-12: Launching EventosApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-25 13:52:28,715 [Worker-12: Launching EventosApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-10-25 13:52:28,716 [Worker-12: Launching EventosApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\20191204010040\Documents\pi\eventos\src\test\resources
+2022-10-25 13:53:31,327 [Worker-16: Launching EventosApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-25 13:53:31,327 [Worker-16: Launching EventosApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-10-25 13:53:31,331 [Worker-16: Launching EventosApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-10-25 13:53:31,345 [Worker-16: Launching EventosApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2022-10-25 13:53:31,352 [Worker-16: Launching EventosApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-25 13:53:31,352 [Worker-16: Launching EventosApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-10-25 13:53:31,352 [Worker-16: Launching EventosApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\20191204010040\Documents\pi\eventos\src\test\resources
